@@ -1,0 +1,6 @@
+basesURL = "http://hugoTest.com"
+languageCode = "en-us"
+title = "HelloHugo"
+theme = "Hugo-uno"
+hasCJKLanguage = "true"
+publishDir = "docs"
