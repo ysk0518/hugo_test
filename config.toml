@@ -1,6 +1,6 @@
 basesURL = "https://ysk0518.github.io/hugo_test"
 languageCode = "en-us"
-title = "HelloHugo"
+title = "hugo_test"
 theme = "Hugo-uno"
 hasCJKLanguage = "true"
 publishDir = "docs"
