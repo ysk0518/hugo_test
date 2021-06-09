@@ -1,5 +1,5 @@
-basesURL = "https://ysk0518.github.io/hugo_test"
+basesURL = "https://pliclock.com"
 languageCode = "en-us"
 title = "hugo_test"
-theme = "Hugo-uno"
+theme = "portio"
 hasCJKLanguage = "true"
