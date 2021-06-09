@@ -1,5 +1,5 @@
 basesURL = "https://pliclock.com"
 languageCode = "en-us"
-title = "hugo_test"
-theme = "portio"
+title = "PlicLock"
+theme = "hugo-uno"
 hasCJKLanguage = "true"

@@ -1,6 +1,3 @@
 [submodule "themes/hugo-uno"]
 	path = themes/hugo-uno
 	url = https://github.com/SenjinDarashiva/hugo-uno.git
-[submodule "themes/portio"]
-	path = themes/portio
-	url = https://github.com/StaticMania/portio-hugo.git
