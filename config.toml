@@ -1,4 +1,4 @@
-basesURL = "https://pliclock.com"
+basesURL = "https://www.pliclock.com"
 languageCode = "en-us"
 title = "PlicLock"
 author = "YP_hack"
@@ -9,7 +9,7 @@ hasCJKLanguage = "true"
 [Params]
 description = "Design by PlicLock"
 github = "ysk0518"
-logo = "/images/plic_lock.png"
+logo = "/images/plic_lock_2.png"
 
 [taxonomies]
 tag = "tags"
