@@ -9,6 +9,7 @@ hasCJKLanguage = "true"
 [Params]
 description = "Design by PlicLock"
 github = "ysk0518"
+cover = "/images/DSC_0011.jpg"
 logo = "/images/plic_lock.png"
 
 [taxonomies]
